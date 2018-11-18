@@ -1,0 +1,6 @@
+[package]
+name = "study_git_github_using"
+version = "0.1.0"
+authors = ["Kosorukov Anatoly <java1cprog@yandex.ru>"]
+
+[dependencies]
